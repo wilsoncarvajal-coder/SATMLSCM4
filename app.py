@@ -934,7 +934,7 @@ def sec_about() -> None:
     | **Autor** | {AUTHOR} |
     | **Institución** | {UNIVERSIDAD} |
     | **Curso** | Trabajo de Grado 3 — Modelos de Innovación |
-    | **Modelo ML** | Random Forest Regressor (Scikit-Learn) |
+    | **Modelo ML** | Regresión lineal, Gradient boosting, Árbol de decisión, Random Forest Regressor (Scikit-Learn) |
     | **Framework** | Streamlit ≥ 1.40 |
     | **Técnica innovación** | SCAMPER |
     | **Repositorio** | https://github.com/W-Andres/SATMLSCM3 |
